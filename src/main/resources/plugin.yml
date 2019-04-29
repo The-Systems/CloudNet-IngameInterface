@@ -1,0 +1,8 @@
+name: CloudNet-Interface
+author: McRupen
+version: 1.0
+main: de.mcruben.cloudnetinterface.CloudNetInterface
+softdepend:
+- CloudNetAPI
+commands:
+  cloudnet:
