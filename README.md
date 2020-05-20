@@ -9,7 +9,7 @@ A IngameInterface for CloudNet v2
 
 #### Projectpage
 
-https://project.the-systems.eu/resources/cloudnet-webinterface
+/
 
 #### License
 
